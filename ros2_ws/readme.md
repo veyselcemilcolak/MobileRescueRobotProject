@@ -1,4 +1,4 @@
-in order to run the nodes:
+**In order to run the nodes: (In different terminals)**
 
 ros2 run uart uart_node
 
