@@ -1,0 +1,10 @@
+int32[] sensor_values
+float32 x
+float32 y
+float32 theta
+int32 command_type 
+float32[] command_values
+bool command_flag
+int32[] calib_dir
+float32[] calib_angle
+bool gripper_full
